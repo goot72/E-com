@@ -3,11 +3,9 @@
 * [description](#description)
 * [installation](#installation)
 * [usage](#usage)
-* [contribution](#contribution)
-* [test](#test)
 * [license](#license)
 * [username](#username)
-* [email](#email)
+
 
 ## Description
 This project use api end points to get a list of product along with their categories and tags.
